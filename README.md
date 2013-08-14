@@ -1,13 +1,10 @@
-ZZZWWW
+Backbone – Osmek – Brunch
 ================
 
-![intro](http://25.media.tumblr.com/tumblr_mcujjm7Bay1r68b0fo1_1280.jpg)
+![intro](http://24.media.tumblr.com/90dac60ff3ef416120913fc2b56b9074/tumblr_mjmy93gYEr1rjcio4o1_500.jpg)
 
-Personal web.
+Ya we homies. Wurkin together for zzze wwwebbb.
 
-Running on [ZappaJS](https://github.com/zappajs/zappajs) and [Brunch](http://www.brunch.io).
-Jade for rendering and Stylus doing the css-magic.
+IDK lolol
 
----
- 
-Zappa is serving the same templates as backbone is rendering. By pointing express ```static/``` folder to brunch ```public/```
+Check it! (Osmek is cool. Old but still cool.)
